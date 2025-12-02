@@ -47,6 +47,7 @@
 <h3>My latest journal and book</h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=HqJP0YVYuEc"><b>전문가들이 전하는 NEWSTART</b></a><br/></li>
+  <li><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274272770&srsltid=AfmBOoqSz31SGB5s-_Ol1ExUl8d-kW_170xzg2GAi_ornAqhWd-EikNk"><b>청소년 생활습관의학 안내서</b></a><br/></li>
   <li><a href="https://pure.skku.edu/en/publications/diagnostic-decision-points-of-specific-ige-concentrations-in-kore/"><b>Diagnostic decision points of specific IgE concentrations in korean children with egg and cow's milk allergies</b></a><br/></li>
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/27007834/"><b>Evaluation of drug provocation tests in Korean children: a single center experience</b></a><br/></li>
   <li><a href="https://www.ingentaconnect.com/content/ocean/aap/2016/00000037/00000004/art00005;jsessionid=76k49it7eb400.x-ic-live-03"><b>The association between hypovitaminosis D and pediatric allergic diseases: A Korean nationwide population-based studye</b></a><br/></li>
