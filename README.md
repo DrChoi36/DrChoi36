@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Get well soon!</h1>
 
-
 <p>Welcome to my page! </br> I'm DrChoi <img src="https://img.icons8.com/skeuomorphism/1200/south-korea-circular.jpg" width="25"/> <b>Seoul, Korea</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -44,7 +43,7 @@
   </tbody>
 </table>
 
-<h3>My latest journal and book</h3>
+<h3>My journal and book</h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=HqJP0YVYuEc"><b>전문가들이 전하는 NEWSTART</b></a><br/></li>
   <li><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274272770&srsltid=AfmBOoqSz31SGB5s-_Ol1ExUl8d-kW_170xzg2GAi_ornAqhWd-EikNk"><b>청소년 생활습관의학 안내서</b></a><br/></li>
