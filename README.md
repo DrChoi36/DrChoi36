@@ -71,7 +71,7 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/DrChoi36" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <a href="https://drchoi36.github.io/" target="_blank">
+    <img alt="My Portfolio" src="https://img.shields.io/badge/My_Portfolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
