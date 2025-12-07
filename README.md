@@ -8,7 +8,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/python--like%20it?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-square%26logo%3Dhtml5%26logoColor%3Dwhite">
 </p>
-<h3>Open source projects</h3>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
